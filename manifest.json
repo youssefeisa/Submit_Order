@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "متابعة الدليفري",
+  "short_name": "الدليفري",
+  "description": "تسجيل أوردرات الدليفري ومتابعة المحاسبة دون اتصال.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10151f",
+  "theme_color": "#10151f",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
